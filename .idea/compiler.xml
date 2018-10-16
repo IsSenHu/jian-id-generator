@@ -12,6 +12,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="jian-id-generator" target="1.8" />
       <module name="jian-interface" target="1.8" />
       <module name="jian-rest" target="1.8" />
       <module name="jian-service" target="1.8" />

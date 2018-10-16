@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/jian-service/pom.xml" />
         <option value="$PROJECT_DIR$/jian-interface/pom.xml" />
         <option value="$PROJECT_DIR$/jian-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
