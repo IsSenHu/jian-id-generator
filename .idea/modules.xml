@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jian-id-generator.iml" filepath="$PROJECT_DIR$/jian-id-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jian-interface/jian-interface.iml" filepath="$PROJECT_DIR$/jian-interface/jian-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jian-rest/jian-rest.iml" filepath="$PROJECT_DIR$/jian-rest/jian-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jian-service/jian-service.iml" filepath="$PROJECT_DIR$/jian-service/jian-service.iml" />
+    </modules>
+  </component>
+</project>
