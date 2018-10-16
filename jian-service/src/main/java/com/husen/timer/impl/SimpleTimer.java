@@ -82,8 +82,4 @@ public class SimpleTimer implements Timer {
         log.info("The current time bit length is {}, the expiration date is {}, this can be used for {} days.",
                 idMeta.getTimeBits(), expirationDate, days);
     }
-
-    public static void main(String[] args) {
-        System.out.println(new Date(1514736000000L));
-    }
 }

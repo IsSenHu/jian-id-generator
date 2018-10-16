@@ -116,9 +116,4 @@ public class IdMeta {
     public long getVersionBitsMask() {
         return -1L ^ -1L << versionBits;
     }
-
-    public static void main(String[] args) {
-        System.out.println(-1L ^ (-1L << 10));
-        System.out.println(Long.toBinaryString(-1L ^ -1L << 10));
-    }
 }
